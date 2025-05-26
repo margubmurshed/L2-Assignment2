@@ -1,4 +1,3 @@
--- Active: 1747627262171@@127.0.0.1@5432@conservation_db
 -- 1. Register a new ranger with provided data with name = 'Derek Fox' and region = 'Coastal Plains'
 INSERT INTO rangers(name, region) VALUES ('Derek Fox', 'Coastal Plains');
 
